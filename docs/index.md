@@ -1,84 +1,84 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Joshua Ludwig's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Joshua Ludwig
+Student at Brigham Young University Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="lud21004@byui.edu">lud21004@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/joshua-ludwig02/">LinkedIn</a>
+| <a href="https://github.com/Katzenbar02">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021-2024`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Computer Science Major with emphasis in Machine Learning and Minor in Finance: 3.72GPA
 
 
-## Related Experience
+## Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### Special Projects
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January 2023 - April 2023`
+__Roots Food Group__, Dallas, TX
 
-### Data Science Lead
+- Collaborated with IT department to set up and troubleshoot network and technology infrastructure to enhance
+efficiency and speed for colleagues
+- Researched and analyzed competing companies in food industry to gather data on market trends, pricing, and
+consumer preferences using Microsoft Excel
+- Assisted in development and implementation of updated HR policies, improving employee satisfaction and retention.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Projects
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`April 2022 - July 2022`
+__C#__, Rexburg, ID
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Designed angry birds clone with accurate gameplay, collision, and physics
+- Established interactive environment and foes with use of physics and unconventional movement
+- Structured multiple and varied levels to play through and improve skills
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`September 2021 - April 2022`
+__HTML, CSS, Javascript__, Rexburg, ID
 
-### Data Science Consulting Team
+- Created personal business with several website pages with current information and promotions
+- Expanded personal website to promote skills and abilities to potential clients
+- Developed script to receive feedback via contact tab sent through email
 
-`January 2027 - April 2027`
-__Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`January 2022 - July 2022`
+__Pygame__, Rexburg, ID
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Created an AI to compete with in-game with path-finding able to complete obstacle in under a minute
+- Developed multiple laps to endlessly play and compete with opponent
+- Built modular and customizable code for future development of adding and improving tracks
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`September 2021 - December 2021`
+__Python, Tkinter__, Rexburg, ID
+
+- Constructed tests with 100% pass rate on all functions
+- Calculates Total Grade Points, Total Credits, GPA, and percentile with minimal inefficiency
+- Wrote over 400 lines of code and use of functions, parameters, and logic gates
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2016`
+__Eagle Scout__, Boy Scounts of America
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills and Interests
+
+ - __Programming Languages:__ Python, R, SQL, C#, HTML, CSS, JavaScript, Excel
+ - __Hobbies__: Hiking, Camping, Biking, Music, and Sports
 
 
 
